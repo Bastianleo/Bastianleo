@@ -3,14 +3,14 @@
 <h3>Full Stack Web Developer | Informatics Engineering Student</h3>
 
 <p>
-Passionate about building scalable web applications, creating modern user experiences, and continuously improving my skills in software development. I enjoy turning ideas into real-world applications and always strive to write clean, efficient, and maintainable code.
+Passionate about building modern web applications, creating scalable backend systems, and designing responsive user interfaces. I enjoy learning new technologies, solving real-world problems, and turning ideas into impactful digital solutions.
 </p>
 
 <p>
-<i>"Code with purpose, learn without limits, and build solutions that make an impact."</i>
+<i>"Code with purpose, learn without limits, and build something meaningful."</i>
 </p>
 
-<br>
+<h3>Tech Stack</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
@@ -44,4 +44,28 @@ Passionate about building scalable web applications, creating modern user experi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="45" />
+</p>
+
+<h3>Connect with Me</h3>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+
+  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
 </p>

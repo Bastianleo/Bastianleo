@@ -53,7 +53,7 @@ Passionate about building modern web applications, creating scalable backend sys
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 
-  <a href="https://www.instagram.com/https://www.instagram.com/bastianleo_?igsh=MWF1dmtkc2J5N2RrcQ==" target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/bastianleo_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 

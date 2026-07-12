@@ -53,11 +53,11 @@ Passionate about building modern web applications, creating scalable backend sys
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 
-  <a href="https://www.instagram.com/https://www.instagram.com/bastianleo_" target="_blank">
+  <a href="https://www.instagram.com/bastianleo_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 
-  <a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.facebook.com/Nero" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
   </a>
 
@@ -65,7 +65,7 @@ Passionate about building modern web applications, creating scalable backend sys
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:muhammadyusufbastian41">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
 </p>

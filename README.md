@@ -57,7 +57,7 @@ Passionate about building modern web applications, creating scalable backend sys
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
 
-  <a href="https://www.facebook.com/Nero" target="_blank">
+  <a href="https://www.facebook.com/leo.wilsen.9?locale=id_ID" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
   </a>
 

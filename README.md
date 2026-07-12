@@ -1,20 +1,18 @@
-<h1 align="center">Muhammad Yusuf Bastian</h1>
+<h1>Muhammad Yusuf Bastian</h1>
 
-<h3 align="center">
-Full Stack Web Developer | Informatics Engineering Student
-</h3>
+<h3>Full Stack Web Developer | Informatics Engineering Student</h3>
 
-<p align="center">
-Passionate about building scalable web applications, solving real-world problems through technology, and continuously learning new skills.
+<p>
+Passionate about building scalable web applications, creating modern user experiences, and continuously improving my skills in software development. I enjoy turning ideas into real-world applications and always strive to write clean, efficient, and maintainable code.
 </p>
 
-<p align="center">
-"Code with purpose, learn with passion, and build for the future."
+<p>
+<i>"Code with purpose, learn without limits, and build solutions that make an impact."</i>
 </p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />

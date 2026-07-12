@@ -49,7 +49,7 @@ Passionate about building modern web applications, creating scalable backend sys
 <h3>Connect with Me</h3>
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Bastianleo" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 
